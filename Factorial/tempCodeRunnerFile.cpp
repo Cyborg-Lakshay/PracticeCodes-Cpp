@@ -1,0 +1,1 @@
+cout<<mul<<" * "<<i<<" = "<<i*mul<<endl;
