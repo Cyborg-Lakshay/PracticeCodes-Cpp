@@ -76,4 +76,6 @@ int main()
     
     cout<<"Level is --> "<<lakshay.getLevel()<<endl;
     cout<<"Power is --> "<<lakshay.getPower()<<endl;
+    
+    return 0;
 }
